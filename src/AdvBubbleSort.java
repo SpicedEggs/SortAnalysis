@@ -14,7 +14,7 @@ public class AdvBubbleSort extends GetTime {
 				return;
 		}
 	}
- 
+
 	private static void swap(int[] array, int a, int b)// 交换数组中的元素需要把数组本身穿进去
 	{
 		array[a] = array[a] + array[b];
