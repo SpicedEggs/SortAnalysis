@@ -1,4 +1,4 @@
-
+//当没有任何一个元素交换时，函数返回的bubblesort 
 public class AdvBubbleSort extends GetTime {
 
 	public void runCode(int array[]) {
